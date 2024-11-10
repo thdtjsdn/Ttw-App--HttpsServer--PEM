@@ -1,0 +1,7 @@
+{
+	"PORT": 443,
+
+	"PEM_CHA" : "ssl/cha.pem",
+	"PEM_CER" : "ssl/crt.pem",
+	"PEM_KEY" : "ssl/key.pem"
+}
