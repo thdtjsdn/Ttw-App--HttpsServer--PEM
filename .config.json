@@ -1,6 +1,6 @@
 {
 	"PORT": 443,
 
-	"PEM_CER" : "ssl/crt.pem",
-	"PEM_KEY" : "ssl/key.pem"
+	"PEM_CER" : ".ssl/crt.pem",
+	"PEM_KEY" : ".ssl/key.pem"
 }
