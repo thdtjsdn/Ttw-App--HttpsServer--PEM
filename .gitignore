@@ -1,6 +1,6 @@
-ssl/cha.pem
-ssl/crt.pem
-ssl/key.pem
+.ssl/cha.pem
+.ssl/crt.pem
+.ssl/key.pem
 
 # Logs
 logs
